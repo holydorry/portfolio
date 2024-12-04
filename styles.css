@@ -1,0 +1,33 @@
+body, h1, h2 p {
+margin: 0;
+padding: 0;
+}
+
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT';
+    line-height: 1.5;
+    background-color: aqua;
+    
+}
+header {
+    text-align: center;
+    background-color: black;
+    color:white ;
+    padding: 33px;
+}
+main {
+    width: 80%;
+    margin: 20px auto;
+    background-color: whitesmoke;
+    padding: 20px;
+}
+section {
+    margin: 50px 0; 
+}
+footer {
+    text-align: center;
+    background-color: white;
+    color: black;
+    margin-top: 17px;
+    padding: 10px 0;
+}
